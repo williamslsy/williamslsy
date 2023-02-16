@@ -6,17 +6,13 @@ frontend web developer and crypto researcher
 
 a result-focused, detail-oriented, self-motivated and career-driven React Frontend || Full Stack Engineer with 5+ years of experience working at Top Tech companies that have secured funding and launched globally used products.
 
-* 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Portfolio](http://waliba.netlify.app)
-* ✉️  You can contact me at [donwaleyb@gmail.com](mailto:donwaleyb@gmail.com)
-* 🚀  I'm currently working on [ECF Platform](http://ecf.network)
-* 🧠  I'm learning Nest.js
-* 🤝  I'm open to collaborating on Web3 Projects
-* ⚡  I love music
-
-### Skills
-
-
+*   🌍  I'm based in Nigeria
+*   🖥️  See my portfolio at [My Portfolio](http://waliba.netlify.app)
+*   ✉️  You can contact me at [donwaleyb@gmail.com](mailto:donwaleyb@gmail.com)
+*   🚀  I'm currently working on [ECF Platform](http://ecf.network)
+*   🧠  I'm learning Nest.js
+*   🤝  I'm open to collaborating on Web3 Projects
+*   ⚡  I love music### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -63,26 +59,18 @@ a result-focused, detail-oriented, self-motivated and career-driven React Fronte
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 <a href="https://www.terra.money/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terra-colored.svg" width="36" height="36" alt="Terra" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/williamslsy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bada-olawale-sylvester" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dev_waliba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/williamslsy"><img src="https://github-readme-stats.vercel.app/api?username=williamslsy&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="williamslsy's GitHub stats" /></a>
-
-<a href="http://www.github.com/williamslsy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=williamslsy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/williamslsy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamslsy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/williamslsy/dotlaunch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=williamslsy&repo=dotlaunch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/donwaleyb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/williamslsy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/bada-olawale-sylvester" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/dev_waliba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/williamslsy"><img src="https://github-readme-stats.vercel.app/api?username=williamslsy&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=ec4899&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="williamslsy's GitHub stats" /></a><a
+                      href="http://www.github.com/williamslsy"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=williamslsy&stroke=6366f1&background=ffffff&ring=ec4899&fire=ec4899&currStreakNum=6366f1&currStreakLabel=ec4899&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a><a href="https://github.com/williamslsy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamslsy&langs_count=10&title_color=ec4899&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/williamslsy/dotlaunch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=williamslsy&repo=dotlaunch&title_color=ec4899&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />### Support Me<a
+                  href="https://www.buymeacoffee.com/donwaleyb"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
