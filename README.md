@@ -6,7 +6,7 @@ frontend web developer and crypto researcher
 
 a result-focused, detail-oriented, self-motivated and career-driven React Frontend || Full Stack Engineer with 5+ years of experience working at Top Tech companies that have secured funding and launched globally used products.
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm currently based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://waliba.netlify.app)
 * ✉️  You can contact me at [donwaleyb@gmail.com](mailto:donwaleyb@gmail.com)
 * 🚀  I'm currently working on [ECF Platform](http://ecf.network)
