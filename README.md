@@ -9,7 +9,7 @@ a result-focused, detail-oriented, self-motivated and career-driven React Fronte
 * 🖥️  See [My Portfolio](http://waliba.netlify.app)
 * ✉️  You can contact me at [donwaleyb@gmail.com](mailto:donwaleyb@gmail.com)
 * 🚀  I'm currently working on [ECF Platform](http://ecf.network)
-* 🧠  I'm learning Nest.js
+* 🧠  I'm loving WAGMI
 * 🤝  I'm open to collaborating on Web3 Projects
 * ⚡  I love music
 
