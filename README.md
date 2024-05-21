@@ -68,12 +68,6 @@ a result-focused, detail-oriented, self-motivated and career-driven React Fronte
 
 <p align="left"> <a href="https://www.github.com/williamslsy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bada-olawale-sylvester" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dev_waliba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/williamslsy"><img src="https://github-readme-stats.vercel.app/api?username=williamslsy&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=ec4899&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&show_icons=true" alt="williamslsy's GitHub stats" /></a>
-
 
 <a href="https://github.com/williamslsy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamslsy&langs_count=10&title_color=ec4899&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
