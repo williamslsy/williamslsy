@@ -1,17 +1,19 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Waliba
-==============================================================================================================================
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sylvester Olawale (Waliba)
+==================================================================================================================================================
 
-frontend web developer and crypto researcher
+Frontend Heavy Web3 Fullstack Developer and crypto researcher
 --------------------------------------------
 
 a result-focused, detail-oriented, self-motivated and career-driven React Frontend || Full Stack Engineer with 5+ years of experience working at Top Tech companies that have secured funding and launched globally used products.
 
-* 🖥️  See [My Portfolio](http://waliba.netlify.app)
-* ✉️  You can contact me at [donwaleyb@gmail.com](mailto:donwaleyb@gmail.com)
+* 🖥️  See [My Portfolio](http://waliba.vercel.app)
+* ✉️   You can contact me at [donwaleyb@gmail.com](mailto:donwaleyb@gmail.com)
 * 🚀  I'm currently working on [ECF Platform](http://ecf.network)
-* 🧠  I'm loving WAGMI
+* 🧑‍💻  I live and breathe the Nextjs/React/TS stack
+* 💥  I'm crazy about Radix/Shadcn-ui and Tailwind
+* 🧠  I'm loving Wagmi/Viem
 * 🤝  I'm open to collaborating on Web3 Projects
-* ⚡  I love music
+* 🎶  I love music and I play the piano 🎹
 
 ### Skills
 
