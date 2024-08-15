@@ -8,7 +8,7 @@ a result-focused, detail-oriented, self-motivated and career-driven React Fronte
 
 * 🖥️  See [My Portfolio](http://waliba.vercel.app)
 * ✉️   You can contact me at [donwaleyb@gmail.com](mailto:donwaleyb@gmail.com)
-* 🚀  I'm currently working on [ECF Platform](http://ecf.network)
+* 🚀  I'm currently working at [Linum Labs](https://www.linumlabs.com/)
 * 🧑‍💻  I live and breathe the Nextjs/React/TS stack
 * 💥  I'm crazy about Radix/Shadcn-ui and Tailwind
 * 🧠  I'm loving Wagmi/Viem
