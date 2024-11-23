@@ -7,11 +7,12 @@ Frontend Heavy Web3 Fullstack Developer and crypto researcher
 a result-focused, detail-oriented, self-motivated and career-driven React Frontend || Full Stack Engineer with 5+ years of experience working at Top Tech companies that have secured funding and launched globally used products.
 
 * 🖥️  See [My Portfolio](http://waliba.vercel.app)
-* ✉️   You can contact me at [donwaleyb@gmail.com](mailto:donwaleyb@gmail.com)
+* ✉️   You can contact me at [slyolawale@gmail.com](mailto:donwaleyb@gmail.com)
 * 🚀  I'm currently working at [Linum Labs](https://www.linumlabs.com/)
 * 🧑‍💻  I live and breathe the Nextjs/React/TS stack
 * 💥  I'm crazy about Radix/Shadcn-ui and Tailwind
 * 🧠  I'm loving Wagmi/Viem
+* 👨🏽‍💻  I'm learning Rust
 * 🤝  I'm open to collaborating on Web3 Projects
 * 🎶  I love music and I play the piano 🎹
 
