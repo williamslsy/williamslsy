@@ -8,7 +8,7 @@ a result-focused, detail-oriented, self-motivated and career-driven React Fronte
 
 * 🖥️  See [My Portfolio](http://waliba.vercel.app)
 * ✉️   You can contact me at [slyolawale@gmail.com](mailto:donwaleyb@gmail.com)
-* 🚀  I'm currently working at [ECF](https://www.ecf.network/)
+* 🚀  I'm currently working at [Tower](https://app.tower.fi/)
 * 🧑‍💻  I live and breathe the Nextjs/React/TS stack
 * 💥  I'm crazy about Radix/Shadcn-ui and Tailwind
 * 🧠  I'm loving Wagmi/Viem
@@ -56,7 +56,7 @@ a result-focused, detail-oriented, self-motivated and career-driven React Fronte
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/williamslsy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bada-olawale-sylvester" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dev_waliba" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/williamslsy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bada-olawale-sylvester" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bosdev_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 <a href="https://github.com/williamslsy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamslsy&langs_count=10&title_color=ec4899&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
