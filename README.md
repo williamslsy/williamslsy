@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Heavy Web3 Fullstack Developer and crypto researcher
 --------------------------------------------
 
-a result-focused, detail-oriented, self-motivated and career-driven React Frontend || Full Stack Engineer with 5+ years of experience working at Top Tech companies that have secured funding and launched globally used products.
+a result-focused, detail-oriented, self-motivated and career-driven Full Stack Product Engineer with 6+ years of experience working at Top Tech companies that have secured funding and launched globally used products.
 
 * 🖥️  See [My Portfolio](http://bosdev.site)
 * ✉️   You can contact me at [slyolawale@gmail.com](mailto:slyolawale@gmail.com)
