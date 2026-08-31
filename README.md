@@ -6,14 +6,11 @@ Frontend Heavy Web3 Fullstack Developer and crypto researcher
 
 a result-focused, detail-oriented, self-motivated and career-driven React Frontend || Full Stack Engineer with 5+ years of experience working at Top Tech companies that have secured funding and launched globally used products.
 
-* 🖥️  See [My Portfolio](http://waliba.vercel.app)
-* ✉️   You can contact me at [slyolawale@gmail.com](mailto:donwaleyb@gmail.com)
+* 🖥️  See [My Portfolio](http://bosdev.site)
+* ✉️   You can contact me at [slyolawale@gmail.com](mailto:slyolawale@gmail.com)
 * 🚀  I'm currently working at [Tower](https://app.tower.fi/)
-* 🧑‍💻  I live and breathe the Nextjs/React/TS stack
-* 💥  I'm crazy about Radix/Shadcn-ui and Tailwind
-* 🧠  I'm loving Wagmi/Viem
-* 👨🏽‍💻  I'm learning Rust
-* 🤝  I'm open to collaborating on Web3 Projects
+* 🧑‍💻  I'm a 0 -> 1 builder. Give me the spec. I hand you the finished product
+* 🤝  I'm open to collaborating on Blockchain/Web3 Projects
 * 🎶  I love music and I play the piano 🎹
 
 ### Skills
