@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sylvester Olawale (Waliba)
 ==================================================================================================================================================
 
-Frontend Heavy Web3 Fullstack Developer and crypto researcher
---------------------------------------------
+Fullstack Product Builder and crypto researcher
+-----------------------------------------------
 
 a result-focused, detail-oriented, self-motivated and career-driven Full Stack Product Engineer with 6+ years of experience working at Top Tech companies that have secured funding and launched globally used products.
 
