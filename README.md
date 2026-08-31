@@ -56,11 +56,11 @@ a result-focused, detail-oriented, self-motivated and career-driven React Fronte
 <p align="left"> <a href="https://www.github.com/williamslsy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bada-olawale-sylvester" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bosdev_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
-<a href="https://github.com/williamslsy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamslsy&langs_count=10&title_color=ec4899&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <a href="https://github.com/williamslsy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamslsy&langs_count=10&title_color=ec4899&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/williamslsy/dotlaunch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=williamslsy&repo=dotlaunch&title_color=ec4899&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/williamslsy/dotlaunch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=williamslsy&repo=dotlaunch&title_color=ec4899&text_color=6366f1&icon_color=ec4899&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
 
 ### Support Me
 
